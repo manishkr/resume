@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.4)  1 FEB 2024 11:45
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.4)  16 MAR 2024 14:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -969,19 +969,22 @@ Overfull \hbox (74.8079pt too wide) in alignment at lines 10--28
 [] [] 
  []
 
-) (./resume/experience.tex [1
+) (./resume/experience.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/it' will be
+(Font)              scaled to size 9.0pt on input line 26.
+ [1
 
 ]) [2] (./ManishKumarResume.aux)
 Package rerunfilecheck Info: File `ManishKumarResume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32673 strings out of 476683
- 667200 string characters out of 5804047
- 1894018 words of memory out of 5000000
- 52387 multiletter control sequences out of 15000+600000
- 514955 words of font info for 105 fonts, out of 8000000 for 9000
+ 32675 strings out of 476683
+ 667302 string characters out of 5804047
+ 1886018 words of memory out of 5000000
+ 52388 multiletter control sequences out of 15000+600000
+ 514963 words of font info for 106 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 114i,11n,118p,576b,615s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 114i,11n,118p,576b,610s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on ManishKumarResume.pdf (2 pages).

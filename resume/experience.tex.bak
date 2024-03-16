@@ -21,7 +21,7 @@
       \begin {itemize}
         \item Building a recommendation system using linear optimization that can handle large-scale data much more efficiently than traditional methods.
       \end{itemize}
-     \it{Technologies:} Rust, PostgreSQL, Redis, AWS, Docker, Linear Programming
+     \it{Technologies:} Rust, PostgreSQL, Redis, AWS, Docker, Linear Optimization
     \end{cvitems}
   }
   \vspace*{0.5cm}
@@ -51,7 +51,7 @@
         \item {Supply Chain Product}
         \begin {itemize}
           \item Built a supply chain product to streamline inventory procurement and management for the client's manufacturing plants.
-          \item It improved the efficiency of the supply chain by 30\% over existing systems.
+          \item It imporoved the efficiency of the supply chain by 30\% over existing systems.
           \end{itemize}
           \it{Technologies:} AWS Lambda, Python, GraphQL
       \end{cvitems}
