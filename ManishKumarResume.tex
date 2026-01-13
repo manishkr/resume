@@ -37,7 +37,9 @@
 
 % If you would like to change the social information separator from a pipe (|) to something else
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
-
+\hypersetup{
+  colorlinks, linkcolor=darkblue
+}
 
 %-------------------------------------------------------------------------------
 %	PERSONAL INFORMATION
@@ -46,13 +48,13 @@
 % Available options: circle|rectangle,edge/noedge,left/right
 % \photo[rectangle,edge,right]{./examples/profile}
 \name{Manish Kumar}{}
-\position{Engineering Leader{\enskip\cdotp\enskip}Product Builder}
-\address{713, Varuna Block, MyHome Navadweepa, HiTech City, Hyderabad-500081}
+\address{Hyderabad, India}
+\position{Software Engineer{\enskip\cdotp\enskip}Product Builder}
 
 \mobile{(+91) 995-515-4740}
 \email{manishk.ayachi@gmail.com}
 \github{manishkr}
-\linkedin{manis0us}
+\linkedin{manishkay}
 %-------------------------------------------------------------------------------
 \begin{document}
 
@@ -73,10 +75,9 @@
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
 \input{resume/summary.tex}
-\input{resume/education.tex}
 \input{resume/skills.tex}
 \input{resume/experience.tex}
-
+\input{resume/education.tex}
 
 %-------------------------------------------------------------------------------
 \end{document}
